@@ -2,13 +2,6 @@
 
 $(function() {
 
-    //setInterval
-    //animate marigin-left
-    // if it's last slide, go position 1(0px);
-
-    //listen for mouseenter and pause
-    //resume on mouseleave
-
     //configuration
     var width = 800;
     var animationSpeed = 1000;
@@ -21,6 +14,8 @@ $(function() {
 
     var interval;
 
+    //startSlider is a function which goes when I open my page 
+
     function startSlider() {
         interval = setInterval(function() {
             $slideContainer.animate({ 'margin-left': '-=' + width }, animationSpeed, function() {
@@ -32,6 +27,8 @@ $(function() {
             });
         }, pause);
     }
+
+    //stopSlider is a function which goes when I put mouse on picture
 
     function stopSlider() {
         clearInterval(interval);
