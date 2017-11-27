@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>zadanie3</title>
+    <style type="text/css">
+        p {
+            /*type*/
+            background-color: gray;
+        }
+        
+        span {
+            background-color: silver;
+        }
+        
+        p span {
+            /*descendant*/
+            border: 10px outset silver;
+            background-color: blue;
+        }
+        
+        div>span {
+            /*child*/
+            border: groove 4px black;
+        }
+        
+        h1+p {
+            /*adjacent*/
+            border: 2px palevioletred;
+        }
+        
+        #id {
+            /*id*/
+            height: 100px;
+            color: peachpuff;
+        }
+        
+        .class {
+            /*class*/
+            height: 50px;
+            background-color: violet;
+        }
+    </style>
+</head>
+
+<body>
+    <p>przyklad 1</p>
+    <p>
+        <span>przyklad 2 </span>
+    </p>
+    <div>
+        <span>przyklad 3</span>
+    </div>
+    <h1>
+        przyklad 4
+    </h1>
+    <p>
+        przyklad 5
+    </p>
+    <p id="id">przyklad 6</p>
+    <p class="class">przyklad 7</p>
+
+
+    <!--https://developer.mozilla.org/pl/docs/Web/CSS/CSS_Selectors - wytlumaczenie selektorow-->
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+var div = document.createElement('div');
+div.id = 'menu';
+
+function f(x) {document.getElementById("menu").style.borderColor =x;};
+
+document.body.appendChild(div);
+document.getElementById('menu').style.border= '3px solid blue';
+
+var a1 = document.createElement('a');
+a1.setAttribute('href','#');
+a1.setAttribute('onclick',"f('red')");
+a1.innerHTML = "Czerwony";
+var a2 = document.createElement('a');
+a2.setAttribute('href','#');
+a2.setAttribute('onclick',"f('black')");
+a2.innerHTML = "Czarny";
+var a3 = document.createElement('a');
+a3.setAttribute('href','#');
+a3.setAttribute('onclick',"f('brown')");
+a3.innerHTML = "Brazowy";
+
+document.getElementById('menu').appendChild(a1);
+document.getElementById('menu').appendChild(a2);
+document.getElementById('menu').appendChild(a3);
+
+
+#document.getElementById zwraca wszystkie elementy o id x
+# .appendChild(x)dodaje x jako ostatnie dziecko elementu przed
+# f(x) zmienia kolor bordera elementu „menu” na x
+# .innerHTML wrzuca tekst miedzy element na ktorym jest wywolywany
+# document.createElement tworzy elementy
+# setAttribute nadaje atrybuty

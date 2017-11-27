@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Title of the document</title>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" type="text/css" href="style1.css" />
+    <style>
+        p {
+            color: green;
+        }
+        
+        div {
+            color: blue;
+        }
+        
+        h2 {
+            color: red;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h2> Nagłówek</h2>
+
+    <p style=’color: yellow’ !important>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut rhoncus ex. Suspendisse auctor feugiat sapien quis viverra. Donec iaculis orci eget diam tempus, ac feugiat lectus euismod. Donec rutrum posuere nisl eget egestas. Ut elementum justo id
+        laoreet placerat. Donec auctor malesuada augue eget accumsan. Duis non tincidunt est, et ullamcorper ipsum. Donec vulputate auctor eros, vitae maximus mauris vehicula pulvinar. Proin lectus sem, mattis sagittis euismod eget, efficitur quis sapien.
+        Nunc eget nibh metus. Nullam non quam risus. Vestibulum finibus vitae justo in tempor. Curabitur sagittis convallis fringilla. In hac habitasse platea dictumst. Nulla scelerisque faucibus est, et euismod justo suscipit a.</p>
+
+    <div> Lorem ipsum dolor sit amet,</div>
+    <div> consectetur adipiscing elit.</div>
+
+</body>
+
+</html>
+
+<!--
+    Wnioski:
+    1) Reguła important działa zawsze
+    2) Atrybuty w HTML mają niższy priorytet niż CSS
+    3) Style są przesłaniane (ostatni ma 'pierwszeństwo')
+        - nie dotyczy !important
+-->

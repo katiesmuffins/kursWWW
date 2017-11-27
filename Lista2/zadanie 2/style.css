@@ -1,0 +1,28 @@
+a:link {
+    color: palevioletred
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color: plum
+}
+
+
+/*najechanie myszką*/
+
+a:active {
+    color: orchid
+}
+
+
+/*podczas kliknięcia*/
+
+a:focus {
+    color: peachpuff
+}
+
+
+/*zaznaczenie z klawiatury*/
