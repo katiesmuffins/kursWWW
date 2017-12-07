@@ -1,0 +1,9 @@
+zadanie9. 
+
+Persistent cookie(trwałe) - jest przechowywane na komputerze przez długi okres czasu. Dzięki temu możemy być nie wylogowani z Facebooka po zamknięciu przeglądarki. 
+
+Session cookie (sesyjne) - podczas przeglądania stron jest przechowywana w pamięci podręcznej (cache). Przykładowe zastosowanie to narzędzia online (np. Google Docs). Ciasteczka sesyjne są usuwane po zamknięciu przeglądarki.
+
+na Mac OS X persistent cookies z Chroma są przechowywane w pliku „~/Library/Application Support/Google/Chrome/Default/Cookies”  - jest to baza danych sqlite3 
+
+natomiast z Firefoxa przechowywane są w pliku „~/Library/Application Support/Firefox/Profiles/pi88jm1u.default”  również jako baza danych sqlite3
