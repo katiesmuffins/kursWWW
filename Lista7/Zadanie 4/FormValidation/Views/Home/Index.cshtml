@@ -1,0 +1,22 @@
+﻿@model FormValidation.Models.Person
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FormSimple</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <table border="1">
+           <tr><td>@Html.LabelFor(e => e.Rejestracja)</td><td>@Html.EditorFor(e => e.Rejestracja) @Html.ValidationMessageFor(model => model.Rejestracja)</td></tr>
+           <tr><td>@Html.LabelFor(e => e.Data)</td><td>@Html.EditorFor(e => e.Data) @Html.ValidationMessageFor(model => model.Data)</td></tr>
+           <tr><td>@Html.LabelFor(e => e.Marka)</td><td>@Html.EditorFor(e => e.Marka) @Html.ValidationMessageFor(model => model.Marka)</td></tr>
+           <tr><td>@Html.LabelFor(e => e.RokProdukcji)</td><td>@Html.EditorFor(e => e.RokProdukcji) @Html.ValidationMessageFor(model => model.RokProdukcji)</td></tr>
+           <tr><td>@Html.LabelFor(e => e.RodzajPaliwa)</td><td>@Html.EditorFor(e => e.RodzajPaliwa) @Html.ValidationMessageFor(model => model.RodzajPaliwa)</td></tr>
+        </table>
+        <input type="submit" />
+        @Html.AntiForgeryToken()
+    }
+</body>
+</html>

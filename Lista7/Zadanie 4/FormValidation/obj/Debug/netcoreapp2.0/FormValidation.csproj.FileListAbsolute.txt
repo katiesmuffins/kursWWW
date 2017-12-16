@@ -1,0 +1,11 @@
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.deps.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.runtimeconfig.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.runtimeconfig.dev.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.dll
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/bin/Debug/netcoreapp2.0/FormValidation.pdb
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.csproj.CoreCompileInputs.cache
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.AssemblyInfoInputs.cache
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.AssemblyInfo.cs
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.dll
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.pdb
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/FormValidation/obj/Debug/netcoreapp2.0/FormValidation.csprojResolveAssemblyReference.cache

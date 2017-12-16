@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F237460A-2A6E-42F7-B11F-83A61C0F277A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Person.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="20" Column="10" />
+      <File FileName="Views/Home/Index.cshtml" Line="18" Column="17" />
+      <File FileName="Views/Home/Success.cshtml" Line="10" Column="11" />
+      <File FileName="Models/Person.cs" Line="12" Column="9" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
