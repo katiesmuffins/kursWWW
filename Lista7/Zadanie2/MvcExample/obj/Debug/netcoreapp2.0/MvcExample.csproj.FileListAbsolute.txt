@@ -1,0 +1,11 @@
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/bin/Debug/netcoreapp2.0/MvcExample.deps.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/bin/Debug/netcoreapp2.0/MvcExample.runtimeconfig.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/bin/Debug/netcoreapp2.0/MvcExample.runtimeconfig.dev.json
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/bin/Debug/netcoreapp2.0/MvcExample.dll
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/bin/Debug/netcoreapp2.0/MvcExample.pdb
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.csproj.CoreCompileInputs.cache
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.AssemblyInfoInputs.cache
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.AssemblyInfo.cs
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.dll
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.pdb
+/Users/katiesmuffins/Downloads/tint-p06-aspnetcore/aspnetcore/MvcExample/obj/Debug/netcoreapp2.0/MvcExample.csprojResolveAssemblyReference.cache
