@@ -1,0 +1,11 @@
+Identyfikacja jest wtedy, gdy podmiot deklaruje swoją tożsamość - np. podczas rozmowy z obsługą klienta w banku, gdy musimy podać imię nazwisko, numer konta. 
+
+Uwierzytelnianie występuje wtedy, gdy strona stosuje odpowiednią technikę, by zweryfikować tożsamość użytkownika - np. gdy serwer prosi użytkownika o wpisanie hasła i weryfikuje jego zgodność z wcześniej ustawioną wartością. 
+
+Autoryzacja - potwierdzenie czy dany podmiot jest uprawniony do uzyskania dostępu do żądanego zasobu np. serwer weryfikuje uprawnienia zalogowanego użytkownika do konkretnego pliku sprawdzając tablicę dostępu w systemie plików. 
+
+Kontrola dostępu – system polegający na zainstalowaniu odpowiednich urządzeń lub oprogramowania oraz wdrożeniu procedur organizacyjnych, mających na celu identyfikację podmiotu - zabezpieczanie pojedynczych pomieszczeń jak magazyny czy serwerownie za pomocą PINu 
+
+Podatność informatyczna - słabość danego systemu informatycznego wynikająca z błędów wewnętrznych lub błędów użytkownika.
+
+Zagrożenia to m.in. wirusy, złośliwe oprogramowanie, luki i dziury w systemie, odmowa usługi czy ich modyfikacja.  
